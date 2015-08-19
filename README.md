@@ -7,3 +7,5 @@ The price - in SG dollar - is calculated on the basis of a linear model built up
 `fit <- lm(price ~ I(carat - mean(carat)), data = diamond)`
 
 The price is SG Dollar is afterward converted to US Dollar `*0.71` and to Euro `*0.65`
+
+The application is deployed (here)[https://amineds.shinyapps.io/diamond]
