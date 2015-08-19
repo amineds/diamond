@@ -8,4 +8,4 @@ The price - in SG dollar - is calculated on the basis of a linear model built up
 
 The price is SG Dollar is afterward converted to US Dollar `*0.71` and to Euro `*0.65`
 
-The application is deployed (here)[https://amineds.shinyapps.io/diamond]
+The application is deployed [here](https://amineds.shinyapps.io/diamond)
